@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniPaint_CodeDao", "miniPaint_CodeDao\miniPaint_CodeDao.csproj", "{A46A79FE-C5AF-4492-8F5B-68100BF1EF40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46A79FE-C5AF-4492-8F5B-68100BF1EF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46A79FE-C5AF-4492-8F5B-68100BF1EF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46A79FE-C5AF-4492-8F5B-68100BF1EF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46A79FE-C5AF-4492-8F5B-68100BF1EF40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
